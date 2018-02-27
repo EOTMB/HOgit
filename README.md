@@ -1,4 +1,4 @@
-Aguante el metal
+Buenisimas charlas, aguante el metal
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
 
